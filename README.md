@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="400"> 
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" width="300"> 
 </p>
 
 # 💫 About Me:
